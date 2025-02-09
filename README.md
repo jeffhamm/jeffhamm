@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeff
 - 👀 I’m interested in DataScience and Analytics
-- 🌱 I’m currently learning Python
+- 🌱 My current role involves Data Analysis, Machine learning, etc.
 
 <!---
 jeffhamm/jeffhamm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
